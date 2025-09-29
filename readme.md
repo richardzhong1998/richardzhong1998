@@ -1,34 +1,87 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+👋 Hi there! I'm reza
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+                                                  
+welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called Barnamenevisinsta that shares everything I learn about programming.
 
-```txt
-TypeScript   24 hrs 24 mins  █████████████████████▒░░░   85.29 %
-Python       2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Markdown     55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-CSS          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-```
+My favorite tools and technologies ⚙️
+Tools and technologies that I have worked with and am interested in
 
-<!--END_SECTION:waka-->
+icon
+C#	icon
+Python	icon
+Javascript	icon
+C++	icon
+Django	GitHub
+Github	Rest API
+Rest API	Rest API
+Docker	icon
+Nginx
+Git
+Git	GitLab
+GitLab	HTML
+HTML	css
+CSS	bootstrap
+Bootstrap	tailwind
+Tailwind	jquery
+JQuery	jquery
+PostgreSQL	ASP.NET Core
+ASP.NET
+Redis
+Redis	Postman
+Postman	Linux
+Linux	dart
+Dart	dart
+RabbitMQ	dart
+sentry	dart
+Celery	dart
+Docusaurus	dart
+Pytest
+Github stats 📊
+GitHub Profile Stats 💻
+Details
+Profile Views 👁️
+Wakatime ⏳
+Extra Pins 📌
+Recent GitHub Activity ✅
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+My favorite tools and technologies ⚙️
+Tools and technologies that I have worked with and am interested in
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
+icon
+C#	icon
+Python	icon
+Javascript	icon
+C++	icon
+Django	GitHub
+Github	Rest API
+Rest API	Rest API
+Docker	icon
+Nginx
+Git
+Git	GitLab
+GitLab	HTML
+HTML	css
+CSS	bootstrap
+Bootstrap	tailwind
+Tailwind	jquery
+JQuery	jquery
+PostgreSQL	ASP.NET Core
+ASP.NET
+Redis
+Redis	Postman
+Postman	Linux
+Linux	dart
+Dart	dart
+RabbitMQ	dart
+sentry	dart
+Celery	dart
+Docusaurus	dart
+Pytest
+Github stats 📊
+GitHub Profile Stats 💻
+Details
+Profile Views 👁️
+Wakatime ⏳
+Extra Pins 📌
+Recent GitHub Activity ✅
 
